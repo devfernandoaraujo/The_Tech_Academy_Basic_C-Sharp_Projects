@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Package_Express", "Package_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_Class_Assignment", "..\Method_Class_Assignment\Method_Class_Assignment.csproj", "{25ECF812-CF93-4751-AD56-672C45B2606E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators_Assignment", "..\Operators_Assignment\Operators_Assignment.csproj", "{FFDE58B7-3015-4DA2-B2FD-3F77829ACBF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators_Assignment", "..\Operators_Assignment\Operators_Assignment.csproj", "{FFDE58B7-3015-4DA2-B2FD-3F77829ACBF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_Assignment", "..\Polymorphism_Assignment\Polymorphism_Assignment.csproj", "{C7EC44C6-2204-40CA-BA73-E1E76AE6F908}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism_Assignment", "..\Polymorphism_Assignment\Polymorphism_Assignment.csproj", "{C7EC44C6-2204-40CA-BA73-E1E76AE6F908}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarInsurance", "..\CarInsurance\CarInsurance.csproj", "{2537C2B2-FCB6-46B8-94A8-0A7FAD791F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Assignment", "..\Final Assignment\Final Assignment.csproj", "{0DC490F4-43BF-4454-8566-21821E9652C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2537C2B2-FCB6-46B8-94A8-0A7FAD791F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2537C2B2-FCB6-46B8-94A8-0A7FAD791F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2537C2B2-FCB6-46B8-94A8-0A7FAD791F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC490F4-43BF-4454-8566-21821E9652C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC490F4-43BF-4454-8566-21821E9652C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC490F4-43BF-4454-8566-21821E9652C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC490F4-43BF-4454-8566-21821E9652C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
